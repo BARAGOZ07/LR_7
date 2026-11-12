@@ -7,7 +7,8 @@ body {
     margin: 0;
     padding: 30px 15px;
     font-family: Arial, sans-serif;
-    background-color: #f0f2f5;
+    background-color: #252525;
+    color: white;
 }
 
 .container {
@@ -17,8 +18,13 @@ body {
 }
 
 h1 {
-    color: #263238;
+    color: #ffffff;
     margin-bottom: 30px;
+}
+
+#pageInfo {
+    color: #cccccc;
+    font-size: 16px;
 }
 
 .gallery {
@@ -95,7 +101,7 @@ h1 {
     font-size: 16px;
 }
 
-/* Адаптация для смартфонов */
+/* ГЂГ¤Г ГЇГІГ Г¶ГЁГї Г¤Г«Гї Г±Г¬Г Г°ГІГґГ®Г­Г®Гў */
 @media (max-width: 600px) {
 
     body {
